@@ -1,0 +1,73 @@
+.container-fluid{
+	background:#f8f9fa;
+}
+.slide{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.hangsanxuat{
+	height: 200px;
+	font-size: 15px;
+	font-weight: 400;
+	display: flex;
+}
+.form-check{
+	margin-top: 8px;
+}
+.mucgia{
+	height: 200px;
+	font-size: 15px;
+	font-weight: 400;
+}
+.tinhnangdacbiet{
+	height: 200px;
+	font-size: 15px;
+	font-weight: 400;
+}
+.dungluongpin, .manhinh, .camera, .tragop{
+	height: 200px;
+	font-size: 15px;
+	font-weight: 400;
+}
+.slide-logo{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.main2{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.sanpham .row{
+}
+.sanpham .row .col-4:hover{
+	border-radius: 4px 4px 4px 4px;
+	border: 2px solid #f4f4f4;
+	margin-top:10px;
+}
+.footer{
+	background: #ffffff;
+	padding-top: 10px; 
+	margin-top: 10px;
+	display: flex;
+}
+.footer ul{
+	list-style: none;
+	font-size: 14px;
+	font-weight: 500; }
+
+.footer ul li{
+		margin-top:8px;
+}
+.footer ul li a{
+	color:#5095ca;
+	text-decoration: none;
+}
+.footer ul li a:hover {
+	color: black;
+}

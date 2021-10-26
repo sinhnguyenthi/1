@@ -1,0 +1,43 @@
+.container-fluid{
+	background:#f8f9fa;
+}
+.main{
+	background: #ffffff; 
+}
+.box{
+	margin-top:15px;
+}
+.box ul{
+	list-style: none;
+	font-size: 14px;
+	font-weight: 500; }
+.box ul li{
+	border: 1px solid #eaeaea;
+	height: 60px;
+	text-align: center;
+}
+
+.box ul li:hover{ 
+	border: 1px solid #ff677a;
+}
+.box2{
+	margin-top:15px;
+	border: 1px dashed #d7d7d7;
+}
+.box2 ul{
+	font-size: 13px;
+}
+.footer ul{
+	list-style: none;
+	font-size: 14px;
+	font-weight: 500; }
+
+.footer ul li{
+		margin-top:8px;
+}
+.footer ul li a{
+	color:#5095ca;
+}
+.footer ul li a:hover {
+	color: black;
+}

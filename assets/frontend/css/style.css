@@ -1,0 +1,147 @@
+.container-fluid{
+ background:#f8f9fa;
+}
+.main1{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.carousel-inner img{
+	border-radius: 6px 6px 6px 6px;
+}
+.main1-right{
+	margin-left: 10px;
+}
+.main1-right img{
+	border-radius: 8px 8px 8px 8px;
+
+}
+.thongtinnoibat{
+	margin-top: 10px;
+}
+
+.thongtinnoibat div>a>span{
+	font-size: 12px;
+	color: black;
+}
+.main2{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+}
+.main2 .row .col-2{
+	border: 1px solid #f8f9fa;
+	width: 100%;
+	border-top: none;
+	height: 100%;
+}
+.main2 .row .col-2 a{
+	text-decoration: none;
+}
+.main2 .row .col-2:hover {
+	background-color: yellow;
+}
+.main2 .row .col-2 a>div{
+	border-radius: 50%;
+	background:#f4f4f4;
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	padding-top: 20px;
+	margin: auto;
+	margin-top: 15px;
+
+}
+.main2 .row .col-2 a>p{
+	color: black;
+	font-weight: 500;
+	text-align: center;
+	font-size: 14px;
+}
+.main3{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;}
+.main3 .row .col-3:hover{
+	border-radius: 4px 4px 4px 4px;
+	border: 2px solid #f4f4f4;;
+}
+.main4{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+}
+.main4 img{
+	width: 100%;
+	border-radius: 8px 8px 8px 8px;
+}
+.main6{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.main6 a{
+	display: flex;
+}
+.main6 a>img{
+	width: 50%;
+}
+.main5{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.main5 .row .col-3{
+
+}
+.main5 .row .col-3:hover{
+	border-radius: 4px 4px 4px 4px;
+	border: 2px solid #f4f4f4;
+}
+.main7{
+	border-radius: 8px 8px 8px 8px;
+	background: #ffffff;
+	margin-top:10px;
+	padding: 10px;
+}
+.main7 .row .col-2{
+	border: 1px solid #f8f9fa;
+	width: 100%;
+	height: 100%;
+}
+.main7 .row .col-2 a{
+	text-decoration: none;
+}
+.main7 .row .col-2:hover {
+	border-radius: 4px 4px 4px 4px;
+	border: 2px solid #f4f4f4;
+}
+.main7 .row .col-2 a>p{
+	color: black;
+	font-size: 15px;
+}
+.footer{
+	background: #ffffff;
+	padding-top: 10px; 
+	margin-top: 10px;
+	display: flex;
+}
+.footer ul{
+	list-style: none;
+	font-size: 14px;
+	font-weight: 500; }
+
+.footer ul li{
+		margin-top:8px;
+}
+.footer ul li a{
+	color:#5095ca;
+}
+.footer ul li a:hover {
+	color: black;
+}
+
+
